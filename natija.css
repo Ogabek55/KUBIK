@@ -1,0 +1,314 @@
+div {
+  background-color: darkblue;
+  margin-top: 400px;
+}
+
+.box-1 {
+  width: 100px;
+  height: 10px;
+}
+.box-2 {
+  width: 10px;
+  height: 50px;
+  opacity: 0;
+}
+.box-3 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-4 {
+  width: 10px;
+  height: 65px;
+  opacity: 0;
+}
+.box-5 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-6 {
+  width: 10px;
+  height: 75px;
+  opacity: 0;
+}
+.box-7 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-8 {
+  width: 10px;
+  height: 85px;
+  opacity: 0;
+}
+.box-9 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-10 {
+  width: 10px;
+  height: 95px;
+  opacity: 0;
+}
+.box-11 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-12 {
+  width: 10px;
+  height: 105px;
+  opacity: 0;
+}
+.box-13 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-14 {
+  width: 10px;
+  height: 115px;
+  opacity: 0;
+}
+.box-15 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-16 {
+  width: 10px;
+  height: 125px;
+  opacity: 0;
+}
+.box-17 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-18 {
+  width: 10px;
+  height: 140px;
+  opacity: 0;
+}
+.box-19 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-20 {
+  width: 10px;
+  height: 160px;
+  opacity: 0;
+}
+.box-21 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-22 {
+  width: 10px;
+  height: 180px;
+  opacity: 0;
+}
+.box-23 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-24 {
+  width: 10px;
+  height: 200px;
+  opacity: 0;
+}
+.box-25 {
+  width: 100px;
+  height: 10px;
+  opacity: 0;
+}
+.box-26 {
+  width: 10px;
+  height: 220px;
+  opacity: 0;
+}
+
+.box-1:hover ~ .box-2 {
+  opacity: 1;
+  transition: 1s;
+  border-radius: 30px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-3 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 1s;
+  border-radius: 40px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-4 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 2s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-5 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 3s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-6 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 4s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-7 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 5s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-8 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 6s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-9 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 7s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-10 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 8s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-11 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 9s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-12 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 10s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-13 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 11s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-14 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 12s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-15 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 13s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-16 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 14s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-17 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 15s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-18 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 16s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-19 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 17s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-20 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 18s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-21 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 19s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-22 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 20s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-23 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 21s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-24 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 22s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-25 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 23s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+.box-1:hover ~ .box-26 {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 24s;
+  border-radius: 50px;
+  background-color: darkblue;
+}
+
+body {
+  display: flex;
+  align-items: flex-end;
+}
